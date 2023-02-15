@@ -1,0 +1,161 @@
+.logo_container{
+	width: 960px;
+	text-align: center;
+	position: relative;
+	margin: 0 auto;
+	/* background-color: red; */
+}
+.logo_img{
+	width: 200px;
+	height: 100px;
+	background-size: contain;
+	vertical-align:bottom;
+}
+.header_icon{
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	top: 50%;
+}
+.user_icon{
+	background: url("../img/user_icon.png")no-repeat center center;
+	background-size: contain;
+	right: 40px;
+	cursor: pointer;
+}
+.chart_icon{
+	background: url("../img/chart_icon.png")no-repeat center center;
+	background-size: contain;
+	right: 0;
+	cursor: pointer;
+}
+/* 
+	menulist  &  search bar
+*/
+.menu_container{
+	width: 960px;
+	margin: 0 auto;
+	overflow: hidden;
+	border-bottom: 1px solid #eee;
+	padding-bottom: 10px;
+}
+.menu_wrap{
+	overflow: hidden;
+	float: left;
+}
+.menu_item{
+	float: left;
+	font: normal 16px 'Poppins';
+	color: #232323;
+	padding: 10px;
+	cursor: pointer;
+}
+.search_input_wrap input {
+	float: right;
+	/* border:  1px solid #232323; */
+	border-radius: 4px;
+	height: 40px;
+	width: 300px;
+	background-color: #f3f3f3;
+}
+.search_input_wrap input::placeholder{
+	padding: 10px;
+}
+
+/* cart-list-container */
+.cart-list-container{
+	width: 960px;
+	margin: 0 auto;
+}
+.cart-list-container td{
+	text-align: center;
+}
+.product-img-cart{
+	width: 119px;
+	height: 119px;
+}
+.quantity-cart-input{
+	width: 65px;
+	height: 23px;
+	border: 1px solid #333;
+	text-align: center;
+}
+.total-price-td{
+	position: relative;
+}
+.total-price{
+	display: inline-block;
+	font-size: 14px;
+	color: #000;
+	/* padding-bottom: 20px; */
+}
+.product-cart-name{
+	font-size: 16px;
+	font-weight: 700;
+	color: #000;
+}
+.cart-product-type-color{
+	display: inline-block;
+	font-size: 14px;
+	color: #7f7f7f;
+	/* padding-top: 10px; */
+}
+.single-price{
+	font-size: 14px;
+	color: #000;
+}
+.remove-cart-num-btn{
+	position: absolute;
+	bottom: 20px;
+	left: 35%;
+	font-size: 14px;
+	color: #7f7f7f;
+	cursor: pointer;
+}
+.cart-table thead tr th{
+	border-bottom: 1px solid #eee;
+	padding: 15px 0;
+}
+.cart-table tbody tr td {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #eee;
+}
+.subtotal-price{
+	font-size: 14px;
+	color: #7f7f7f;
+	text-align: right;
+	font-weight: 700;
+}
+.subtotal-price-num{
+	display: inline-block;
+	margin: 30px 50px;
+	font-size: 14px;
+	color: #000;
+	font-weight: 700;
+}
+.continue-shopping-btn{
+	color: #fff;
+	font-size: 13px;
+	background: #007fdb;
+	width: 168px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	border-radius: 4px;
+	float: left;
+	margin-left: 20px;
+}
+.checkout-btn{
+	color: #fff;
+	font-size: 13px;
+	background: #007fdb;
+	width: 140px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	border-radius: 4px;
+	float: right;
+	margin-right: 40px;
+}
