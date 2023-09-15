@@ -1,0 +1,30 @@
+{
+  "code":0,
+  "success": true,
+  "data":[
+    {
+      "id":1,
+      "time":"Dec 1, 2022",
+      "title":"A Comprehensive Guide: Choosing the Right Exam and Surgical Gloves",
+      "msg":"Exam and surgical gloves are crucial tools in the healthcare field, providing a barrier of protection against various contaminants."
+    },
+    {
+      "id":2,
+      "time":"Feb 10, 2023",
+      "title":"A Success Story: Helping Doctors Improve Their Revenue",
+      "msg":"Improving revenue for medical practices is a multi-faceted challenge."
+    },
+    {
+      "id":3,
+      "time":"Apr 5, 2023",
+      "title":"Medical Equipment Decisions: New or Used?",
+      "msg":"Investing in medical equipment is a significant decision for doctors, whether they're opening a new practice or upgrading an existing one."
+    },
+    {
+      "id":4,
+      "time":"May 20, 2023",
+      "title":"Capitalizing on Point-of-Care Testing: Strategies to Boost Revenue",
+      "msg":"Point-of-Care (POC) testing is transforming healthcare by enabling quicker diagnoses and treatment decisions."
+    }
+  ]
+}
