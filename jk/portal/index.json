@@ -6,13 +6,40 @@
       "id":1,
       "time":"Dec 1, 2022",
       "title":"A Comprehensive Guide: Choosing the Right Exam and Surgical Gloves",
-      "msg":"Exam and surgical gloves are crucial tools in the healthcare field, providing a barrier of protection against various contaminants."
+      "msg":"Exam and surgical gloves are crucial tools in the healthcare field, providing a barrier of protection against various contaminants.",
+      "detail_article":{
+        "title":"A Comprehensive Guide: Choosing the Right Exam and Surgical Gloves",
+        "Introduction":"Exam and surgical gloves are crucial tools in the healthcare field, providing a barrier of protection against various contaminants. Despite their seeming simplicity, selecting the right gloves requires careful consideration. This guide will delve into how to choose the perfect pair of exam or surgical gloves.",
+        "paragraph1":"Understanding the nature of the tasks to be undertaken will determine whether you require exam gloves or surgical gloves. Exam gloves are used for routine patient care and minor procedures, while surgical gloves are used for surgeries and other high-risk procedures.",
+        "paragraph2":{
+          "paragraph2_1":"Exam and surgical gloves are typically made of latex, nitrile, or vinyl.",
+          "paragraph2_2":"- Latex gloves provide excellent flexibility and tactile sensitivity but are not recommended for people with latex allergies.",
+          "paragraph2_3":"- Nitrile gloves are latex-free, offer superior puncture resistance, and are suitable for tasks involving chemicals.",
+          "paragraph2_4":"- Vinyl gloves, also latex-free, are cost-effective and provide adequate protection for basic procedures but lack the superior comfort and fit of latex and nitrile."
+        },
+        "paragraph3":"Surgical gloves must be sterile, while exam gloves can be either non-sterile or sterile. Sterile gloves are needed for procedures that have a high risk of infection, such as surgeries and wound dressing.",
+        "paragraph4":"Proper fitting is vital. Gloves should fit well without restricting hand movement. Ill-fitting gloves can compromise safety and performance. Most manufacturers provide a size chart, which you can use to find the right fit based on your hand measurements.",
+        "paragraph5":"Latex allergies are common, causing reactions from mild skin irritation to severe systemic symptoms. If you or your patient has a known latex allergy, opt for nitrile or vinyl gloves.",
+        "paragraph6":"Ensure that the gloves you choose meet the necessary regulatory standards. In the United States, for example, the Food and Drug Administration (FDA) regulates medical gloves. Look for gloves that have passed rigorous quality tests.",
+        "conclusion":"Whether you're a healthcare professional performing surgery or an individual administering first aid, selecting the right exam or surgical gloves is crucial for safety and efficacy. By understanding your needs, the glove materials, the importance of fit, and quality standards, you can make an informed choice and ensure optimal protection."
+      }
     },
     {
       "id":2,
       "time":"Feb 10, 2023",
       "title":"A Success Story: Helping Doctors Improve Their Revenue",
-      "msg":"Improving revenue for medical practices is a multi-faceted challenge."
+      "msg":"Improving revenue for medical practices is a multi-faceted challenge.",
+      "detail_article":{
+        "title":"A Success Story: Helping Doctors Improve Their Revenue",
+        "Introduction":"Improving revenue for medical practices is a multi-faceted challenge. We took this head-on, partnering with doctors to streamline their operations and amplify their income. Here's how we achieved success, leveraging our expertise in revenue cycle management, accurate coding, technology adoption, and patient satisfaction improvement.",
+        "paragraph1":"We introduced doctors to a systematic approach to revenue cycle management, aiding them in timely billing and rigorous follow-ups on unpaid claims. Our team also helped tackle denied claims promptly, ensuring a steady cash flow. For practices lacking in-house resources, we offered our robust RCM software solution and professional services to achieve efficient results.",
+        "paragraph2":"Recognizing the importance of accurate coding for maximum reimbursement, we organized regular training for the medical staff. Keeping them updated on the latest coding changes and rules, we successfully minimized billing errors and audit risks. Our certified professional coders were instrumental in achieving this high level of coding accuracy.",
+        "paragraph3":"We facilitated the integration of advanced Electronic Health Record (EHR) systems into the practices, simplifying scheduling, billing, and record-keeping. Our tailored telemedicine solutions further enabled the doctors to extend their services to remote patients, leading to a wider patient base and higher revenue.",
+        "paragraph4":"Together with the doctors, we implemented strategies to improve appointment availability, reduce wait times, and enhance patient-practitioner communication. This focused approach led to higher patient satisfaction rates, fostering patient loyalty and attracting new patients to the practice.",
+        "paragraph5":"We worked closely with the doctors to identify and implement additional services suitable for their practice. These included on-site laboratory testing, cosmetic procedures, or weight management programs. The inclusion of these services not only attracted a broader patient demographic but also created additional revenue streams.",
+        "paragraph6":"Our team of experts aided the doctors in understanding and negotiating contracts with insurance companies. We ensured they received the best possible reimbursement rates and terms, and when needed, we advocated for renegotiation.",
+        "paragraph7":"The journey to bolstering doctors' revenue was challenging but highly rewarding. By focusing on key areas such as revenue cycle management, coding accuracy, technology adoption, patient satisfaction, and diversification of services, we could significantly elevate their income. The experience reinforced our belief that with the right strategies and partners, medical practices can achieve both superior patient care and financial success."
+      }
     },
     {
       "id":3,
