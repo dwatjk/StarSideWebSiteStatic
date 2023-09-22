@@ -6,6 +6,7 @@
       "id":1,
       "time":"Dec 1, 2022",
       "title":"A Comprehensive Guide: Choosing the Right Exam and Surgical Gloves",
+      "imgUrl":"https://cdn.jsdelivr.net/gh/dwatjk/StarSideWebSiteStatic/jk/images/image-sm-blog-2.png",
       "msg":"Exam and surgical gloves are crucial tools in the healthcare field, providing a barrier of protection against various contaminants.",
       "detail_article":{
         "title":"A Comprehensive Guide: Choosing the Right Exam and Surgical Gloves",
@@ -28,6 +29,7 @@
       "id":2,
       "time":"Feb 10, 2023",
       "title":"A Success Story: Helping Doctors Improve Their Revenue",
+      "imgUrl":"https://cdn.jsdelivr.net/gh/dwatjk/StarSideWebSiteStatic/jk/images/image-sm-blog-3.png",
       "msg":"Improving revenue for medical practices is a multi-faceted challenge.",
       "detail_article":{
         "title":"A Success Story: Helping Doctors Improve Their Revenue",
@@ -45,12 +47,14 @@
       "id":3,
       "time":"Apr 5, 2023",
       "title":"Medical Equipment Decisions: New or Used?",
+      "imgUrl":"https://cdn.jsdelivr.net/gh/dwatjk/StarSideWebSiteStatic/jk/images/image-sm-blog-4.png",
       "msg":"Investing in medical equipment is a significant decision for doctors, whether they're opening a new practice or upgrading an existing one."
     },
     {
       "id":4,
       "time":"May 20, 2023",
       "title":"Capitalizing on Point-of-Care Testing: Strategies to Boost Revenue",
+      "imgUrl":"https://cdn.jsdelivr.net/gh/dwatjk/StarSideWebSiteStatic/jk/images/image-sm-blog-1.png",
       "msg":"Point-of-Care (POC) testing is transforming healthcare by enabling quicker diagnoses and treatment decisions."
     }
   ]
