@@ -1,0 +1,21 @@
+{
+    "code": 200,
+    "data": {
+        "title": "Jointown International",
+        "copyright": "Jointown International Powered by JK.com",
+        "about_us": {
+            "tel": "(626) 628-0316",
+            "address": "18701 Arenth Ave, City of Industry, CA 91748, United States",
+            "email": "online@jointown-intl.com",
+            "other_information": "Monday through Friday PST 8:30 AM – 5:30 PM (United States Only)"
+        },
+        "introduces": {
+            "title": "Who we are",
+            "content": "<p>US Health Express Corp (DBA Jointown International) is located in 18701 Arenth Ave, City of industry, CA 91748. Founded in 2013, US Health Express Corp (DBA  Jointown International ) is mainly engaged in the import and export trade of medical equipment and daily necessitiesconsumer products between China and the United States. As a wholly-owned subsidiary of Jointown Pharmaceutical Group (JZT in below), Jointown International now has a mature product supply chain and distribution system, warehousing system and a well-established online wholesale and retail platform.</p><p>The parent company, Jointown Pharmaceutical Group (www.jztey.com), was founded in March 1999 and is headquartered in Wuhan, Hubei Province. JZT’s business includes supplying western medicinedrugs, traditional Chinese herbal medicine, medical equipment to as the main business target (B2B), while medical institutions, wholesale enterprises, retail pharmacies(B2B) as and also include retail pharmacy network to serve its mainpublic needs customer target (B2C). On November 2, 2010, JZT has been listed on the Shanghai Stock exchange (stock, Jiuzhoutong, stock code: 600998). The company has ranked the fourth largest pharmaceutical commercial enterprisesdistributors in China for many years, and 105th in the top 500 “Fortune” magazine (Chinese version).</p>"
+        },
+        "our_strength": {
+            "title": "Our Strength",
+            "content": "<p>The storage capacity of JZT logistics is around 10 million pieces, and it has widely used the storage management system (LMIS), equipment-control system (WCS), transportation management system (TMS), third-party logistics platform, and drug regulatory code collection system with independent intellectual property rights, and obtains 308 relevant computer software Copyrights. JZT strongly promotes FBBC business model, integrates B2B and B2C trading platforms, and expands B2B and O2O businesses.</p>"
+        }
+    }
+}
