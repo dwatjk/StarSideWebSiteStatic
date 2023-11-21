@@ -1,7 +1,6 @@
 {
     "code":200,
     "data":[
-        {"id":100001, "text": "Warehouse will be closed from 11/23 to 11/26"},
-        {"id":100002, "text": "Free Domestic Shipping for orders $50+"}
+        {"id":100001, "text": "Warehouse will be closed from 11/23 to 11/26"}
     ]
 }
