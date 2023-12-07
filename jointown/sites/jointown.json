@@ -8,7 +8,8 @@
             "tel": "(626) 628-0316",
             "address": "18701 Arenth Ave, City of Industry, CA 91748, United States",
             "email": "online@jointown-intl.com",
-            "other_information": "We are open: Monday through Friday PST 8:30 AM – 5:30 PM (United States Only)"
+            "other_information": "We are open: Monday through Friday PST 8:30 AM – 5:30 PM (United States Only)",
+            "who_us_img":"https://cdn.jsdelivr.net/gh/dwatjk/StarSideWebSiteStatic/jointown/images/who_we_are.jpg"
         },
         "introduces": {
             "title": "Who we are",
@@ -16,7 +17,12 @@
         },
         "our_strength": {
             "title": "Our Strength",
-            "content": "<p>The storage capacity of JZT logistics is around 10 million pieces, and it has widely used the storage management system (LMIS), equipment-control system (WCS), transportation management system (TMS), third-party logistics platform, and drug regulatory code collection system with independent intellectual property rights, and obtains 308 relevant computer software Copyrights. JZT strongly promotes FBBC business model, integrates B2B and B2C trading platforms, and expands B2B and O2O businesses.</p>"
+            "content": "<p>The storage capacity of JZT logistics is around 10 million pieces, and it has widely used the storage management system (LMIS), equipment-control system (WCS), transportation management system (TMS), third-party logistics platform, and drug regulatory code collection system with independent intellectual property rights, and obtains 308 relevant computer software Copyrights. JZT strongly promotes FBBC business model, integrates B2B and B2C trading platforms, and expands B2B and O2O businesses.</p>",
+            "we_do_img":"https://cdn.jsdelivr.net/gh/dwatjk/StarSideWebSiteStatic/jointown/images/what_we_do.jpg"
+        },
+        "login_background":"https://cdn.jsdelivr.net/gh/dwatjk/StarSideWebSiteStatic/jointown/images/login_picture.jpg",
+        "concat_us":{
+            "concat_us_pic":"https://cdn.jsdelivr.net/gh/dwatjk/StarSideWebSiteStatic/jointown/images/contact_us.jpg"
         }
     }
 }
